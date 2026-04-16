@@ -2,10 +2,7 @@ package com.edutech.progressive.dto;
 
 public class LoginRequest {
 
-    // The username of the customer attempting to log in.
     private String username;
-
-    // The password of the customer attempting to log in.
     private String password;
 
     public LoginRequest() {
